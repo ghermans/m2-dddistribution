@@ -2,3 +2,6 @@
 
 This extension will integrate the **D&D Distribution’s XML Service** to Magento2.    
 **D&D Distribution XML Service** is a Web Service which allows you to request information about products (such as stock and pricing).    
+
+## Requirement
+You need to have a login and password for D&D Distribution’s webshop.    
